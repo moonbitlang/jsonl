@@ -15,5 +15,5 @@ description = "Async reader for JSON Lines (newline-delimited JSON) streams."
 preferred_target = "native"
 
 import {
-  "moonbitlang/async@0.21.2",
+  "moonbitlang/async@0.22.4",
 }
